@@ -1,13 +1,9 @@
-## [project-title] Changelog
+## azure-maps-spyglass Changelog
 
-<a name="x.y.z"></a>
-# x.y.z (yyyy-mm-dd)
+<a name="0.0.1"></a>
+# 0.0.1 (2020-10-29)
 
-*Features*
-* ...
+**Features**
 
-*Bug Fixes*
-* ...
+- Initial release of spyglass.
 
-*Breaking Changes*
-* ...
