@@ -15,11 +15,11 @@ An Azure Maps Web SDK module that provides a window that displays a data set ins
 
 **Samples**
 
-[Spyglass map visualization](https://azuremapscodesamples.azurewebsites.net/index.html?sample=Spyglass%20map%20visualization)
-<br/>[<img src="https://github.com/Azure-Samples/AzureMapsCodeSamples/raw/master/AzureMapsCodeSamples/SiteResources/screenshots/Spyglass-map-visualization.jpg" height="200px">](https://azuremapscodesamples.azurewebsites.net/index.html?sample=Spyglass%20map%20visualization)
+[Spyglass map visualization](https://samples.azuremaps.com/?sample=spyglass-map-visualization)
+<br/>[<img src="https://github.com/Azure-Samples/AzureMapsCodeSamples/blob/main/Samples/Controls/Spyglass%20map%20visualization/screenshot.jpg?raw=true" height="200px">](https://samples.azuremaps.com/?sample=spyglass-map-visualization)
 
-[Spyglass module options](https://azuremapscodesamples.azurewebsites.net/index.html?sample=Spyglass%20module%20options)
-<br/>[<img src="https://github.com/Azure-Samples/AzureMapsCodeSamples/raw/master/AzureMapsCodeSamples/SiteResources/screenshots/Spyglass-module-options.jpg" height="200px">](https://azuremapscodesamples.azurewebsites.net/index.html?sample=Spyglass%20module%20options)
+[Spyglass module options](https://samples.azuremaps.com/?sample=spyglass-module-options)
+<br/>[<img src="https://github.com/Azure-Samples/AzureMapsCodeSamples/blob/main/Samples/Controls/Spyglass%20module%20options/screenshot.jpg?raw=true" height="200px">](https://samples.azuremaps.com/?sample=spyglass-module-options)
 
 ## Getting started
 
